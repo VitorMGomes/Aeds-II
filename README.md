@@ -28,3 +28,9 @@ Vou deixar listados alguns pontos para se atentar quando for fazer pela primeira
 6- Não seja burro de ser pego colando, você vai tomar 0, advertência, ficar marcado com a coordenação e reprovar a máteria .
 
 7- A máteria não é difícil, se vocẽ estudar de maneira minimamente decente você passa de primeira.
+
+8- Os professores são bem generosos na correção das provas, desde que você seja um bom aluno.
+
+9- Reforçando: envie TODAS as questoẽs do TP.
+
+10- Por ultimo, foca em passar nessa máteria. Se você tiver que estudar pra aeds ou outras 5 provas, estuda pra aeds. O resto não vai travar seu curso igual essa aqui.
