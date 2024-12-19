@@ -1,0 +1,57 @@
+[DESORDENADO]
+Desordenado | Tamanho do Array: 100
+Primeiro elemento | Comparacoes: 994 | Movimentacoes: 563 | Tempo: 0.094 ms
+Último elemento | Comparacoes: 993 | Movimentacoes: 564 | Tempo: 0.089 ms
+Random Pivot | Comparacoes: 918 | Movimentacoes: 556 | Tempo: 0.16 ms
+Mediana de 3 | Comparacoes: 825 | Movimentacoes: 568 | Tempo: 0.078 ms
+---------------------------------------------------------------------------------------------
+Desordenado | Tamanho do Array: 1.000
+Primeiro elemento | Comparacoes: 15140 | Movimentacoes: 7918 | Tempo: 0.809 ms
+Último elemento | Comparacoes: 15144 | Movimentacoes: 7919 | Tempo: 0.827 ms
+Random Pivot | Comparacoes: 13789 | Movimentacoes: 7874 | Tempo: 1.234 ms
+Mediana de 3 | Comparacoes: 12354 | Movimentacoes: 8026 | Tempo: 0.823 ms
+---------------------------------------------------------------------------------------------
+Desordenado | Tamanho do Array: 10.000
+Primeiro elemento | Comparacoes: 203967 | Movimentacoes: 102181 | Tempo: 9.694 ms
+Último elemento | Comparacoes: 204080 | Movimentacoes: 102162 | Tempo: 9.821 ms
+Random Pivot | Comparacoes: 184009 | Movimentacoes: 101775 | Tempo: 13.854 ms
+Mediana de 3 | Comparacoes: 164665 | Movimentacoes: 103750 | Tempo: 9.594 ms
+---------------------------------------------------------------------------------------------
+[ORDENADO]
+Ordenado | Tamanho do Array: 100
+Primeiro elemento | Comparacoes: 5148 | Movimentacoes: 297 | Tempo: 0.0 ms
+Último elemento | Comparacoes: 5148 | Movimentacoes: 297 | Tempo: 0.0 ms
+Random Pivot | Comparacoes: 729 | Movimentacoes: 201 | Tempo: 0.0 ms
+Mediana de 3 | Comparacoes: 606 | Movimentacoes: 189 | Tempo: 0.0 ms
+---------------------------------------------------------------------------------------------
+Ordenado | Tamanho do Array: 1.000
+Primeiro elemento | Comparacoes: 501498 | Movimentacoes: 2997 | Tempo: 0.0 ms
+Último elemento | Comparacoes: 501498 | Movimentacoes: 2997 | Tempo: 0.0 ms
+Random Pivot | Comparacoes: 12454 | Movimentacoes: 2001 | Tempo: 0.0 ms
+Mediana de 3 | Comparacoes: 9009 | Movimentacoes: 1533 | Tempo: 0.0 ms
+---------------------------------------------------------------------------------------------
+Ordenado | Tamanho do Array: 10.000
+Primeiro elemento | Comparacoes: 50014998 | Movimentacoes: 29997 | Tempo: 54.0 ms
+Último elemento | Comparacoes: 50014998 | Movimentacoes: 29997 | Tempo: 58.0 ms
+Random Pivot | Comparacoes: 156817 | Movimentacoes: 19959 | Tempo: 0.0 ms
+Mediana de 3 | Comparacoes: 125439 | Movimentacoes: 17712 | Tempo: 0.0 ms
+---------------------------------------------------------------------------------------------
+[PARCIALMENTE ORDENADO]
+Parcialmente ordenado | Tamanho do Array: 100
+Primeiro elemento | Comparacoes: 5098 | Movimentacoes: 297 | Tempo: 0.0 ms
+Último elemento | Comparacoes: 5098 | Movimentacoes: 297 | Tempo: 0.0 ms
+Random Pivot | Comparacoes: 879 | Movimentacoes: 297 | Tempo: 0.0 ms
+Mediana de 3 | Comparacoes: 721 | Movimentacoes: 297 | Tempo: 0.0 ms
+---------------------------------------------------------------------------------------------
+Parcialmente ordenado | Tamanho do Array: 1.000
+Primeiro elemento | Comparacoes: 500998 | Movimentacoes: 2997 | Tempo: 0.0 ms
+Último elemento | Comparacoes: 500998 | Movimentacoes: 2997 | Tempo: 0.0 ms
+Random Pivot | Comparacoes: 13279 | Movimentacoes: 2997 | Tempo: 0.0 ms
+Mediana de 3 | Comparacoes: 10475 | Movimentacoes: 2997 | Tempo: 0.0 ms
+---------------------------------------------------------------------------------------------
+Parcialmente ordenado | Tamanho do Array: 10.000
+Primeiro elemento | Comparacoes: 50009998 | Movimentacoes: 29997 | Tempo: 66.0 ms
+Último elemento | Comparacoes: 50009998 | Movimentacoes: 29997 | Tempo: 66.0 ms
+Random Pivot | Comparacoes: 180309 | Movimentacoes: 29997 | Tempo: 1.0 ms
+Mediana de 3 | Comparacoes: 138615 | Movimentacoes: 29997 | Tempo: 0.0 ms
+---------------------------------------------------------------------------------------------

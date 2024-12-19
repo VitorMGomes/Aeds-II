@@ -1,0 +1,1 @@
+Matrícula: 800643	Tempo de execução: 2.0ms	Comparações: 372

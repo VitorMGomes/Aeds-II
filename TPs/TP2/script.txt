@@ -1,0 +1,8 @@
+clear; javac Nome.java; java Nome; rm *.class
+
+clear; gcc -o Nome Nome.c; ./Nome; rm Nome
+
+
+/tmp/pokemon.csv
+
+cp pokemon.csv /tmp/
