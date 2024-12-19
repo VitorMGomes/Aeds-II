@@ -8,6 +8,7 @@ Repositorio de códigos da máteria de Algoritmos e Estruturas de Dados II
 | Prova 2| 8 | 8 | 16 |
 | Prova 3| 10 | 6,75 | 16,75 |
 | TP | -- | -- | 20 |
+| Desempenho| -- | -- | 12 |
 
 ## Sobre a máteria
 Basicamente, eu fiz a máteria 3 vezes, então acho que conheço um pouco sobre ela KKKKKKKKKKKKKKK 
